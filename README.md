@@ -9,7 +9,7 @@ Professional-grade mobile recovery and access restoration.
 
 ## 💳 Crypto Payments (BTC / ETH / USDT)
 1. Send the amount for your chosen tier to your wallet.
-2. Email the Transaction ID to: **[INSERT YOUR EMAIL HERE]**
+2. Email the Transaction ID to: **spykraft.000@gmail.com**
 3. Receive your License Key (MS- or WZ- prefix).
 
 ## ⚠️ Legal Disclaimer
